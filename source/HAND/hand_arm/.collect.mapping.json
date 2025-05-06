@@ -1,0 +1,23 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/IsaacLab/Robots/FrankaEmika/Props/panda_hand.usd",
+            "source_hash": "7e748d0a300892d9e39284a2d377c5972f798cb3",
+            "target_url": "./SubUSDs/panda_hand.usd",
+            "target_hash": "496df13926fc17e30d78ab05e9abc42841e415d7"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/IsaacLab/Robots/FrankaEmika/Props/panda_leftfinger.usd",
+            "source_hash": "03a92dc88cacba6f5133e2f4e6cdb5620cb610b0",
+            "target_url": "./SubUSDs/panda_leftfinger.usd",
+            "target_hash": "b535d372b42abd227b0c54c9faf2947324ec636d"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/IsaacLab/Robots/FrankaEmika/Props/panda_rightfinger.usd",
+            "source_hash": "9c03a3c8c6c4a2338faa22706b22014614673894",
+            "target_url": "./SubUSDs/panda_rightfinger.usd",
+            "target_hash": "3a9162050a5a8debc0b426970060efad5bb1e345"
+        }
+    ]
+}
