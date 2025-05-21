@@ -104,5 +104,3 @@ RUN echo "export ISAACLAB_PATH=${ISAACLAB_PATH}" >> ${HOME}/.bashrc && \
 # this is the default directory when the container is run
 WORKDIR ${ISAACLAB_PATH}
 
-RUN pip install --upgrade pip
-RUN pip install -e ${ISAACLAB_PATH}/extensions/HAND/source/HAND
