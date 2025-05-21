@@ -1,0 +1,3 @@
+[submodule "extensions/HAND"]
+	path = extensions/HAND
+	url = https://github.com/AlfredMoore/HAND.git
